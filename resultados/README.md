@@ -1,4 +1,4 @@
-Esse repositório contém os arquivos com os resultados dos testes realizados. Os arquivos de compilado de resultados de testes em claro e 
+Esse repositório contém os arquivos com os resultados dos testes realizados. Os arquivos comprimidos de compilado de resultados de testes em claro e 
 testes cifrados contêm as tabelas com o cálculo das médias e desvio padrão para cada faixa de carga de trabalho, para cada operação (INSERT, SELECT, UPDATE, DELETE) dos três SGBDs.
 
 Os arquivos teste_NomeDoSGBD.zip contêm os resultados absolutos de cada teste. Os arquivos contém os resultados dos testes em claro e cifrados. 
