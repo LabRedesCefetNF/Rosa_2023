@@ -7,7 +7,7 @@ Eles possuem o dump das estruturas das bases de dados e um arquivo de instruçõ
 * MariaDB: 10.8.5;
 
 
-*PostgreSQL: 14.7;
+* PostgreSQL: 14.7;
 
 * Firebird: 4.0.2;
 
