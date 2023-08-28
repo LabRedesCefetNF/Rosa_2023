@@ -1,7 +1,7 @@
 # Aplicacao utilizada nos testes do artigo "Uma análise de desempenho de funções de encriptação nativas de SGDBs Open Source"
-Essa foi a aplicação utilizada para realizar a conexão com os SGBDs e executar os experimentos
+Essa foi a aplicação utilizada para realizar a conexão com os SGBDs e executar os experimentos. Ela se encontra no diretório 'projetoFinal'.
 
-*A conexão com os SGBDs é configurada nas classes ConnectionCreator de cada SGBD. Atualmente estão configuradas para localhost. 
+*A conexão com os SGBDs é configurada nas classes ConnectionCreator de cada SGBD. Atualmente estão configuradas para localhost.  
 
 *A aplicação tem como finalidade ler o conteúdo de um arquivo .csv e inserir na base de dados. Para realizar os testes, foram feitos scripts em shell script
 que executam as classes de serviço de inserção, leitura, alteração e remoção dos dados na base que o script referencia. Existe um script para
